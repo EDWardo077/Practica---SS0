@@ -34,9 +34,6 @@
     - Desactivar el uso compartido con protección por contraseña.
 
 
-
-Parte Práctica para el Tema 3: Administración de Cuentas Locales
-
 ---
 
 ## 🔧 **Parte Práctica para el Tema 3: Administración de Cuentas Locales**
